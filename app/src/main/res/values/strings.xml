@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SeeFood</string>
+    <string name="enter_ingredient">Enter ingredient</string>
+    <string name="search">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_photo">No photo</string>
 </resources>
